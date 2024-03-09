@@ -1,0 +1,67 @@
+h3{
+    display: flex;
+    display: inline-block;
+    width: 50px;
+    font-size: 100px;
+    
+    
+}
+
+.heading{
+    font-size: 70px;
+    color: black;
+    font-style: italic;
+    background-color: grey;
+    margin-left: 250px;
+    margin-right: 250px;
+}
+
+*{
+    background-color: rgb(13, 13, 13);
+}
+
+.a{
+margin-right: 200px;
+font-style: italic;
+color: grey;
+
+}
+
+.b{
+margin-right: 200px;
+font-style: italic;
+color: grey;
+}
+
+.c{
+font-style: italic;
+color: grey;
+}
+
+.a1{
+    font-size: 40px;
+    font-style: italic;
+    background-color: blue;
+    margin-right: 150px;
+    color: white;
+    border-radius: 20px;
+}
+
+.a2{
+    font-size: 40px;
+    background-color: blue;
+    margin-right: 150px;
+    font-style: italic;
+    background-color: blue;
+    color: white;
+    border-radius: 20px;
+}
+
+.a3{
+    font-size: 40px;
+    background-color: blue;
+    font-style: italic;
+    background-color: blue;
+    color: white;
+    border-radius: 20px;
+}
